@@ -1,5 +1,7 @@
 # False lint MissingPermission when Platform 31 MissingPermission installed
 
+Bug report : https://issuetracker.google.com/issues/195334540
+
 ## Given
 
 The current project has :
